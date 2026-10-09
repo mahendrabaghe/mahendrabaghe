@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mahendra Baghel
 
-<h3 align="center">🚀 Machine Learning Engineer | Data Science Enthusiast | Data Analyst</h3>
+<h3 align="center">🚀 Machine Learning Engineer | Data Science  | Data Analyst</h3>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+Deep+Learning+%F0%9F%A7%A0;Building+Projects+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+Deep+Learning+%F0%9F%A7%A0;Building+Projects+on+Real-tine+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahendra-baghel">
+  <a href="https://linkedin.com/in/mahendra-baghel-665989249">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/mahendrabaghel07">
