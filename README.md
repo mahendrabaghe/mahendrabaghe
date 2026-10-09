@@ -78,7 +78,7 @@
 <!-- Replace the example repository names below with your actual project repositories. -->
 
 <p align="center">
-  <a href="https://github.com/mahendrabaghe?tab=repositories">
+  <a href="https://mahendrabaghe.github.io/qigital_print_qrr/">
     <img src="https://img.shields.io/badge/🤖_Machine_Learning-Explore_Projects-00D9FF?style=for-the-badge" alt="Machine Learning Projects" />
   </a>
   <a href="https://github.com/mahendrabaghe?tab=repositories">
