@@ -10,15 +10,16 @@
   <a href="https://linkedin.com/in/mahendra-baghel-665989249">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://mahendra-portfolio-flax.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://kaggle.com/mahendrabaghel07">
     <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:msb10102005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mahendra-portfolio-flax.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  
 </p>
 
 ---
