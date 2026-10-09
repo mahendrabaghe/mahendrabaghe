@@ -67,24 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <i>Explore my repositories to discover my work in machine learning, data science, and software development.</i>
-</p>
-
-<!-- Replace the example repository names below with your actual project repositories. -->
-
-<p align="center">
-  <a href="https://mahendrabaghe.github.io/qigital_print_qrr/">
-    <img src="https://img.shields.io/badge/🤖_Machine_Learning-Explore_Projects-00D9FF?style=for-the-badge" alt="Machine Learning Projects" />
-  </a>
-  <a href="https://github.com/mahendrabaghe?tab=repositories">
-    <img src="https://img.shields.io/badge/📊_Data_Science-Explore_Projects-7B2FF7?style=for-the-badge" alt="Data Science Projects" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -104,6 +86,24 @@
   <img src="https://img.shields.io/github/stars/mahendrabaghe?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <i>Explore my repositories to discover my work in machine learning, data science, and software development.</i>
+</p>
+
+<!-- Replace the example repository names below with your actual project repositories. -->
+
+<p align="center">
+  <a href="https://mahendrabaghe.github.io/qigital_print_qrr/">
+    <img src="https://img.shields.io/badge/🤖_Machine_Learning-Explore_Projects-00D9FF?style=for-the-badge" alt="Machine Learning Projects" />
+  </a>
+  <a href="https://github.com/mahendrabaghe?tab=repositories">
+    <img src="https://img.shields.io/badge/📊_Data_Science-Explore_Projects-7B2FF7?style=for-the-badge" alt="Data Science Projects" />
+  </a>
+</p>
+
+---
 ## 📈 Contribution Activity
 
 <p align="center">
