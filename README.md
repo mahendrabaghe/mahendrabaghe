@@ -2,6 +2,23 @@
 
 <h3 align="center">🚀 Machine Learning Engineer | Data Science Enthusiast | Data Analyst</h3>
 
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahendra-baghel">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/mahendrabaghel07">
+    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:msb10102005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mahendra-portfolio-flax.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+Deep+Learning+%F0%9F%A7%A0;Building+Projects+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -106,22 +123,7 @@
 
 ---
 
-## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahendra-baghel">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/mahendrabaghel07">
-    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:msb10102005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://mahendra-portfolio-flax.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
