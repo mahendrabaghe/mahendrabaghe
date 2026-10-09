@@ -7,11 +7,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahendrabaghe&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/mahendrabaghe?label=Followers&style=for-the-badge&color=7B2FF7" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/mahendrabaghe?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars" /> </p>
 
 💫 About Me
-🔭 Currently Working On: Digital Print 🖨️
+🔭 Currently Working in project: Digital 
 🌱 Currently Learning: Deep Learning & Advanced Machine Learning
 📊 Interests: Data Science, Data Analytics, AI & Computer Vision
-👨‍💻 Portfolio: Explore My Projects
-📄 Experience & Links: Discover More
+
 📫 Email: msb10102005@gmail.com
 
 💡 I enjoy exploring data, building intelligent solutions, and transforming ideas into practical projects.
