@@ -18,9 +18,9 @@
 
 <img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a technology enthusiast passionate about transforming data into meaningful insights and building intelligent solutions using machine learning and artificial intelligence.
 
-- 🔭 **Currently working on:** Digital project
+
+- 🔭 **Currently working on project:** Digital print
 - 🌱 **Currently learning:** Deep Learning & Advanced Machine Learning
 - 🤖 **Interested in:** Artificial Intelligence, Machine Learning & Computer Vision
 - 📊 **Passionate about:** Data Science, Data Analytics & Data Visualization
