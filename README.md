@@ -22,11 +22,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendrabaghe&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahendrabaghe?label=FOLLOWERS&style=for-the-badge&color=7B2FF7" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mahendrabaghe?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
-</p>
 
 ---
 
@@ -105,6 +100,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahendrabaghe&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahendrabaghe?label=FOLLOWERS&style=for-the-badge&color=7B2FF7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mahendrabaghe?label=TOTAL%20STARS&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
+</p>
 
 ## 📈 Contribution Activity
 
