@@ -1,33 +1,52 @@
-<h1 align="center">Hi 👋, I'm mahendra baghel</h1>
-<h3 align="center">A passionate ML & Data Science And Data Analytic</h3>
+👋 Hi, I'm Mahendra Baghel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrabaghe&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrabaghe" /> </p>
+<h3 align="center">🚀 Machine Learning Engineer | Data Science Enthusiast | Data Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendrabaghe" alt="mahendrabaghe" /></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+Deep+Learning+%F0%9F%A7%A0;Building+Projects+That+Matter+%F0%9F%9A%80" alt="Typing SVG" /> </p>
 
-- 🔭 I’m currently working on [Digital print](https://mahendrabaghe.github.io/qigital_print_qrr/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahendrabaghe&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/mahendrabaghe?label=Followers&style=for-the-badge&color=7B2FF7" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/mahendrabaghe?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars" /> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+💫 About Me
+🔭 Currently Working On: Digital Print 🖨️
+🌱 Currently Learning: Deep Learning & Advanced Machine Learning
+📊 Interests: Data Science, Data Analytics, AI & Computer Vision
+👨‍💻 Portfolio: Explore My Projects
+📄 Experience & Links: Discover More
+📫 Email: msb10102005@gmail.com
 
-- 👯 I’m looking to collaborate on [Digital print](https://mahendrabaghe.github.io/qigital_print_qrr/)
+💡 I enjoy exploring data, building intelligent solutions, and transforming ideas into practical projects.
 
-- 👨‍💻 All of my projects are available at [https://mahendra-portfolio-flax.vercel.app/](https://mahendra-portfolio-flax.vercel.app/)
+🌐 Connect With Me
 
-- 📫 How to reach me **msb10102005@gmail.com**
+<p align="center"> <a href="https://linkedin.com/in/mahendra-baghel"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://kaggle.com/mahendrabaghel07"> <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a> <a href="mailto:msb10102005@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://mahendra-portfolio-flax.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
 
-- 📄 Know about my experiences [https://mahendrabaghe.github.io/links_OF_websites/](https://mahendrabaghe.github.io/links_OF_websites/)
+🛠️ Languages, Tools & Technologies
+💻 Programming & Web Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahendra-baghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendra-baghel" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahendrabaghel07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahendrabaghel07" height="30" width="40" /></a>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,c,html,css,react&theme=dark" alt="Python, C, HTML, CSS, React" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🤖 Machine Learning & Data Science
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendrabaghe&show_icons=true&locale=en&layout=compact" alt="mahendrabaghe" /></p>
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow, OpenCV" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendrabaghe&show_icons=true&locale=en" alt="mahendrabaghe" /></p>
+🗄️ Databases & Platforms
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrabaghe&" alt="mahendrabaghe" /></p>
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark" alt="MongoDB, PostgreSQL, Git, GitHub, VS Code" /> </p>
+
+📊 GitHub Analytics
+
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahendrabaghe&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true" alt="Mahendra's GitHub Stats" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrabaghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+
+<p align="center"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrabaghe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+
+🏆 GitHub Achievements
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahendrabaghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" /> </p>
+
+📈 Contribution Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendrabaghe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" /> </p>
+
+<p align="center"> <b>✨ "Learning every day, building with passion, and turning data into impact." ✨</b> </p>
+
+<p align="center"> ⭐ If you like my work, consider exploring my repositories and leaving a star! </p>
