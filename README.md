@@ -30,7 +30,7 @@
 
 
 
-- 🔭 **Currently working on project:** Digital print
+- 🔭 **Currently working on project :** Digital print
 - 🌱 **Currently learning:** Deep Learning & Advanced Machine Learning
 - 🤖 **Interested in:** Artificial Intelligence, Machine Learning & Computer Vision
 - 📊 **Passionate about:** Data Science, Data Analytics & Data Visualization
