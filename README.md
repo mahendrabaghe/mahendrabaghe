@@ -105,38 +105,4 @@
 </p>
 
 ---
-## 📈 Contribution Activity
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahendrabaghe&bg_color=1a1b27&color=70a5fd&line=00D9FF&point=BF91F3&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahendrabaghe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies" />
-</p>
-
----
-
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80;Turning+Curiosity+into+Innovation+%F0%9F%A7%A0;One+Project+at+a+Time+%E2%9C%A8" alt="Closing Animation" />
-</p>
-
-<p align="center">
-  <b>✨ "Learning every day, building with passion, and turning data into impact." ✨</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my work interesting, explore my repositories and consider giving them a star!
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Have an awesome day. 💙</i>
-</p>
