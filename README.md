@@ -13,8 +13,8 @@
   <a href="https://mahendra-portfolio-flax.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://kaggle.com/mahendrabaghel07">
-    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://mahendrabaghe.github.io/links_OF_websites/">
+    <img src="https://img.shields.io/badge/All-Links-Follow-20BEFF?style=for-the-badge&logo=All-Links&logoColor=white" alt="All-Links" />
   </a>
   <a href="mailto:msb10102005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
